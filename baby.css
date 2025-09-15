@@ -54,7 +54,7 @@ img{
     height: 100vh;
 }
 main{
-    background-image: url("baby bg.jpg") ;
+    background-image: url("baby images/baby bg.jpg") ;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
@@ -148,5 +148,6 @@ footer .down a{
     text-decoration: none;
     padding-right: 20px;
 }
+
 
 
